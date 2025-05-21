@@ -29,9 +29,6 @@
   <a href="https://www.leetcode.com/vishalsharmax" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40">
   </a>
-  <a href="https://www.hackerearth.com/@vishalsharmax" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40">
-  </a>
   <a href="https://auth.geeksforgeeks.org/user/vishalsharmax/profile" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40">
   </a>
