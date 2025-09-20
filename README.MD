@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tbhvishal&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Visitor Map"/>
-</p>
 
 ![my profile banner](/ProfileBanner.png)
 
@@ -18,7 +15,6 @@
 <h3 align="center">Repository Stats:</h3>
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/tbhvishal/tbhvishal?style=flat" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/stars/tbhvishal/tbhvishal?style=flat" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/repo-size/tbhvishal/tbhvishal?style=flat" alt="Repo Size"/>
 </p>
 
@@ -86,9 +82,6 @@
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tbhvishal&theme=github-compact" alt="Contribution Graph"/>
-</p>
 
 <h3 align="center">Contact</h3>
 <p align="center">
