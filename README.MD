@@ -73,10 +73,10 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tbhvishal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=tbhvishal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&theme=dark" height="150" alt="GitHub Stats"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbhvishal&show_icons=true&locale=en&layout=compact" height="150" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbhvishal&show_icons=true&locale=en&layout=compact&theme=dark" height="150" alt="Top Languages" />
       </td>
     </tr>
   </table>
