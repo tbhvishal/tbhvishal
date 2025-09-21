@@ -1,8 +1,10 @@
 ![my profile banner](/ProfileBanner.png)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tbhvishal&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter"/>
-  <img src="https://img.shields.io/badge/Hello-👋-blue" alt="Hello Emoji"/>
+  
+  <img src="https://img.shields.io/badge/Namaste-%F0%9F%99%8F-blue" alt="namaste"/>
+  <img src="https://img.shields.io/badge/Open_to-Collaborate-brightgreen" alt="Open to Collaborate"/>
+  
 </p>
 
 <h1 align="center">Hello👋,I'm Vishal Sharma</h1>
@@ -16,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tbhvishal&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=tbhvishal&theme=monokai&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies">
   </a>
 </p>
 
@@ -69,14 +71,14 @@
     <tr>
       <td align="center">
         <img src=
-        "https://github-readme-stats.vercel.app/api?username=tbhvishal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&border_color=FFFFFF&border_radius=10&theme=one_dark_pro&title_color=FFFFFF&cache_seconds=21600"
+        "https://github-readme-stats.vercel.app/api?username=tbhvishal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&border_color=FFFFFF&border_radius=10&theme=one_dark_pro&title_color=FFFFFF&cache_seconds=21600&text_color=FFFFFF&icon_color=89CFF0&text_bold=true&ring_color=FFFFFF"
         height="150" 
         width="400"
         alt="GitHub Stats"/>
       </td>
       <td align="center">
         <img src=
-        "https://github-readme-stats.vercel.app/api/top-langs?username=tbhvishal&show_icons=true&locale=en&layout=compact&border_radius=10&theme=one_dark_pro&border_color=FFFFFF&title_color=FFFFFF&cache_seconds=21600" 
+        "https://github-readme-stats.vercel.app/api/top-langs?username=tbhvishal&show_icons=true&locale=en&layout=compact&border_radius=10&theme=one_dark_pro&border_color=FFFFFF&title_color=FFFFFF&cache_seconds=21600&text_color=FFFFFF&text_bold=true" 
         height="150" 
         width="300" 
         alt="Top Languages"/>
