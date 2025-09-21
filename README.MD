@@ -1,4 +1,3 @@
-
 ![my profile banner](/ProfileBanner.png)
 
 <p align="center">
@@ -6,11 +5,8 @@
   <img src="https://img.shields.io/badge/Hello-👋-blue" alt="Hello Emoji"/>
 </p>
 
-
-<h1 align="center">Hello 👋, I'm Vishal Sharma</h1>
+<h1 align="center">Hello👋,I'm Vishal Sharma</h1>
 <h3 align="center">Tech Enthusiast | Aspiring Full Stack Developer</h3>
-
-
 
 <h3 align="center">Repository Stats:</h3>
 <p align="center">
@@ -60,7 +56,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-
 <div align="center">
   <table>
     <tr>
@@ -73,15 +68,22 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tbhvishal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&border_color=FFFFFF&border_radius=10&theme=one_dark_pro" height="150" width="400"alt="GitHub Stats"/>
+        <img src=
+        "https://github-readme-stats.vercel.app/api?username=tbhvishal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&border_color=FFFFFF&border_radius=10&theme=one_dark_pro&title_color=FFFFFF&cache_seconds=21600"
+        height="150" 
+        width="400"
+        alt="GitHub Stats"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbhvishal&show_icons=true&locale=en&layout=compact&border_radius=10&theme=one_dark_pro&border_color=FFFFFF" height="150" width="300" alt="Top Languages" />
+        <img src=
+        "https://github-readme-stats.vercel.app/api/top-langs?username=tbhvishal&show_icons=true&locale=en&layout=compact&border_radius=10&theme=one_dark_pro&border_color=FFFFFF&title_color=FFFFFF&cache_seconds=21600" 
+        height="150" 
+        width="300" 
+        alt="Top Languages"/>
       </td>
     </tr>
   </table>
 </div>
-
 
 <h3 align="center">Contact</h3>
 <p align="center">
@@ -92,14 +94,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
