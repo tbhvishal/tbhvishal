@@ -95,6 +95,6 @@
   <a href="https://github.com/tbhvishal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=&section=footer&reversal=true&fontAlign=0&fontAlignY=0&descAlign=99&color=03AFFF"/>
 </p>
 
