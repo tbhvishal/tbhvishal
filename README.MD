@@ -87,7 +87,7 @@
   </table>
 </div>
 
-<h3 align="center">Contact</h3>
+<h4 align="center">Contact</h4>
 <p align="center">
   <a href="mailto:vishal95844@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -95,4 +95,6 @@
   <a href="https://github.com/tbhvishal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
+
