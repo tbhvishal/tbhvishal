@@ -73,7 +73,15 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tbhvishal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="GitHub Stats"/>
+        <p>
+          <img src="https://img.shields.io/github/commit-activity/m/tbhvishal/tbhvishal?style=flat" alt="Monthly Commits"/>
+          <br>
+          <img src="https://img.shields.io/github/commit-activity/y/tbhvishal/tbhvishal?style=flat" alt="Yearly Commits"/>
+          <br>
+          <img src="https://img.shields.io/github/issues/tbhvishal/tbhvishal?style=flat" alt="Issues"/>
+          <br>
+          <img src="https://img.shields.io/github/issues-pr/tbhvishal/tbhvishal?style=flat" alt="Pull Requests"/>
+        </p>
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbhvishal&show_icons=true&locale=en&layout=compact&theme=dark" height="150" alt="Top Languages" />
