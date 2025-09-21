@@ -73,15 +73,10 @@
     </tr>
     <tr>
       <td align="center">
-        <p>
-          <img src="https://img.shields.io/github/commit-activity/m/tbhvishal/tbhvishal?style=flat" alt="Monthly Commits"/>
-          <br>
-          <img src="https://img.shields.io/github/commit-activity/y/tbhvishal/tbhvishal?style=flat" alt="Yearly Commits"/>
-          <br>
-          <img src="https://img.shields.io/github/issues/tbhvishal/tbhvishal?style=flat" alt="Issues"/>
-          <br>
-          <img src="https://img.shields.io/github/issues-pr/tbhvishal/tbhvishal?style=flat" alt="Pull Requests"/>
-        </p>
+        <img src="https://img.shields.io/github/commit-activity/t/tbhvishal/tbhvishal?style=flat" alt="Total Commits"/><br>
+        <img src="https://img.shields.io/github/followers/tbhvishal?style=flat" alt="Followers"/><br>
+        <img src="https://img.shields.io/github/stars/tbhvishal/tbhvishal?style=flat" alt="Stars"/><br>
+        <img src="https://img.shields.io/github/repos/tbhvishal?style=flat" alt="Repos"/>
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbhvishal&show_icons=true&locale=en&layout=compact&theme=dark" height="150" alt="Top Languages" />
