@@ -10,12 +10,6 @@
 <h1 align="center">Hello 👋, I'm Vishal Sharma</h1>
 <h3 align="center">Tech Enthusiast | Aspiring Full Stack Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tbhvishal&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies">
-  </a>
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/vishalsharmax" target="_blank">
