@@ -25,9 +25,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="" target="_blank">
-    <img src="" alt="" height="30" width="40">
-  </a>
-  <a href="" target="_blank">
     <img src=""  height="30" width="40">
   </a>
   <a href="" target="_blank">
