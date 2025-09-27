@@ -22,19 +22,6 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.hackerrank.com/vishalsharmax" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40">
-  </a>
-  <a href="https://www.leetcode.com/vishalsharmax" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/vishalsharmax/profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40">
-  </a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
