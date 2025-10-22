@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hello👋,I'm Vishal Sharma</h1>
-<h3 align="center">Tech Enthusiast | Aspiring Full Stack Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 <h3 align="center">Repository Stats:</h3>
 <p align="center">
