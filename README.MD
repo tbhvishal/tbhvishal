@@ -73,7 +73,7 @@
 
 <h4 align="center">Contact</h4>
 <p align="center">
-  <a href="mailto:vishal95844@gmail.com" target="_blank">
+  <a href="mailto:vishalsharmax@zohomail.in" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/tbhvishal" target="_blank">
