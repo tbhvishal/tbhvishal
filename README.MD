@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/github/last-commit/tbhvishal/tbhvishal?style=flat" alt="Last Commit"/>
   <img src="https://img.shields.io/github/repo-size/tbhvishal/tbhvishal?style=flat" alt="Repo Size"/>
 </p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tbhvishal&theme=monokai&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies">
