@@ -10,7 +10,7 @@
 <h1 align="center">Hello👋,I'm Vishal Sharma</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-<h3 align="center">Repository Stats:</h3>
+<h3 align="center">Repository Stats</h3>
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/tbhvishal/tbhvishal?style=flat" alt="Last Commit"/>
   <img src="https://img.shields.io/github/repo-size/tbhvishal/tbhvishal?style=flat" alt="Repo Size"/>
