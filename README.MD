@@ -118,6 +118,27 @@
 ---
 
 <h2 align="center">
+  <img src="https://api.iconify.design/lucide/box.svg?color=%2345DEFF" width="22" height="22" align="center" alt="3D Box Icon" />
+  3D Contribution Graph
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tbhvishal/tbhvishal/main/profile-3d-contrib/profile-night-view.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tbhvishal/tbhvishal/main/profile-3d-contrib/profile-green-animate.svg" />
+          <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/tbhvishal/tbhvishal/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">
   <img src="https://api.iconify.design/lucide/trophy.svg?color=%2345DEFF" width="24" height="24" align="center" alt="Trophy Icon" />
   Achievements & Badges
 </h2>
