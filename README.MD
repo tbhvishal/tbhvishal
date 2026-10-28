@@ -158,6 +158,23 @@
 ---
 
 <h2 align="center">
+  <img src="https://api.iconify.design/lucide/send.svg?color=%2345DEFF" width="22" height="22" align="center" alt="Send Icon" />
+  Connect With Me
+</h2>
+
+<div align="center">
+  <a href="mailto:vishalsharmax@zohomail.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-vishalsharmax%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tbhvishal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-tbhvishal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">
   <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2345DEFF" width="22" height="22" align="center" alt="Gamepad Icon" />
   Contribution Graph Activity
 </h2>
@@ -174,23 +191,6 @@
       </td>
     </tr>
   </table>
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://api.iconify.design/lucide/send.svg?color=%2345DEFF" width="22" height="22" align="center" alt="Send Icon" />
-  Connect With Me
-</h2>
-
-<div align="center">
-  <a href="mailto:vishalsharmax@zohomail.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vishalsharmax%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/tbhvishal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-tbhvishal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <br/>
