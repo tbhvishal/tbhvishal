@@ -24,39 +24,51 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <div align="center">
-          <img src="https://api.iconify.design/lucide/terminal.svg?color=%2345DEFF" width="16" height="16" align="center" alt="Terminal" />
-          &nbsp;<b>Languages</b>
-          <br/><br/>
-          <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,java" alt="Languages" />
-        </div>
+      <td align="center" width="24%">
+        <img src="https://api.iconify.design/lucide/terminal.svg?color=%2345DEFF" width="16" height="16" align="center" alt="Terminal" />
+        &nbsp;<b>Languages</b>
       </td>
-      <td align="center" width="50%">
-        <div align="center">
-          <img src="https://api.iconify.design/lucide/layout.svg?color=%2345DEFF" width="16" height="16" align="center" alt="Layout" />
-          &nbsp;<b>Frontend</b>
-          <br/><br/>
-          <img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend" />
-        </div>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-1e2227?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/TypeScript-1e2227?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Python-1e2227?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+        <img src="https://img.shields.io/badge/C++-1e2227?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++"/>
+        <img src="https://img.shields.io/badge/C-1e2227?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+        <img src="https://img.shields.io/badge/Java-1e2227?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
-        <div align="center">
-          <img src="https://api.iconify.design/lucide/server.svg?color=%2345DEFF" width="16" height="16" align="center" alt="Server" />
-          &nbsp;<b>Backend & Database</b>
-          <br/><br/>
-          <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb" alt="Backend & Database" />
-        </div>
+      <td align="center" width="24%">
+        <img src="https://api.iconify.design/lucide/layout.svg?color=%2345DEFF" width="16" height="16" align="center" alt="Layout" />
+        &nbsp;<b>Frontend</b>
       </td>
-      <td align="center" width="50%">
-        <div align="center">
-          <img src="https://api.iconify.design/lucide/cpu.svg?color=%2345DEFF" width="16" height="16" align="center" alt="CPU" />
-          &nbsp;<b>DevOps & Tools</b>
-          <br/><br/>
-          <img src="https://skillicons.dev/icons?i=docker,git" alt="DevOps & Tools" />
-        </div>
+      <td>
+        <img src="https://img.shields.io/badge/React-1e2227?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/HTML5-1e2227?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1e2227?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="24%">
+        <img src="https://api.iconify.design/lucide/server.svg?color=%2345DEFF" width="16" height="16" align="center" alt="Server" />
+        &nbsp;<b>Backend & DB</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-1e2227?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-1e2227?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/Prisma-1e2227?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-1e2227?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/MongoDB-1e2227?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="24%">
+        <img src="https://api.iconify.design/lucide/cpu.svg?color=%2345DEFF" width="16" height="16" align="center" alt="CPU" />
+        &nbsp;<b>DevOps & Tools</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-1e2227?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Git-1e2227?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
       </td>
     </tr>
   </table>
