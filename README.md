@@ -5,7 +5,7 @@
 <h1 align="center">Hey There, I'm Vishal Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="38" height="38" align="absmiddle" alt="" /></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=600&duration=3000&pause=1000&color=45DEFF&center=true&vCenter=true&width=550&height=55&lines=Aspiring+Full+Stack+Developer;Passionate+Problem+Solver;Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=600&duration=3000&pause=1000&color=45DEFF&center=true&vCenter=true&width=620&height=55&lines=Full-Stack+Software+Engineer;Building+Production-Ready+Web+Applications;Writing+Clean%2C+Maintainable+%26+Scalable+Code" alt="Typing SVG" />
 </div>
 
 <p align="center">
