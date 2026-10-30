@@ -2,7 +2,7 @@
   <img src="https://github.com/tbhvishal/tbhvishal/blob/main/ProfileBanner.png?raw=true" alt="Vishal's Profile Banner" width="100%" />
 </div>
 
-<h1 align="center">Hey there, I'm Vishal Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="38" height="38" align="absmiddle" alt="" /></h1>
+<h1 align="center">Hey There, I'm Vishal Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="38" height="38" align="absmiddle" alt="" /></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=600&duration=3000&pause=1000&color=45DEFF&center=true&vCenter=true&width=550&height=55&lines=Aspiring+Full+Stack+Developer;Passionate+Problem+Solver;Building+Modern+Web+Apps" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="38" height="38" align="absmiddle" alt="" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="38" height="38" align="absmiddle" alt="" />
   &nbsp;Languages & Technologies
 </h2>
 
@@ -27,7 +27,7 @@
   <table>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>Languages</b>
       </td>
       <td valign="middle">
@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>Frontend</b>
       </td>
       <td valign="middle">
@@ -52,7 +52,7 @@
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>Backend</b>
       </td>
       <td valign="middle">
@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>Databases</b>
       </td>
       <td valign="middle">
@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>DevOps & Tools</b>
       </td>
       <td valign="middle">
@@ -105,7 +105,7 @@
       <td align="center" valign="middle">
         <div align="center">
           <b>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="26" height="26" align="absmiddle" alt="" />
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="26" height="26" align="absmiddle" alt="" />
             &nbsp;Most Used Languages
           </b>
         </div>
@@ -159,25 +159,8 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="38" height="38" align="absmiddle" alt="" />
-  &nbsp;Connect With Me
-</h2>
-
-<div align="center">
-  <a href="mailto:vishalsharmax@zohomail.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vishalsharmax%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/tbhvishal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-tbhvishal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="38" height="38" align="absmiddle" alt="" />
-  &nbsp;Contribution Graph Activity
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="38" height="38" align="absmiddle" alt="" />
+  &nbsp;Interactive Contribution Graph
 </h2>
 
 <div align="center">
@@ -197,12 +180,29 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="38" height="38" align="absmiddle" alt="" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="38" height="38" align="absmiddle" alt="" />
   &nbsp;Daily Tech Inspiration
 </h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Daily Tech Quote" width="600" />
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="38" height="38" align="absmiddle" alt="" />
+  &nbsp;Connect with Me
+</h2>
+
+<div align="center">
+  <a href="mailto:vishalsharmax@zohomail.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-vishalsharmax%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tbhvishal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-tbhvishal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 <br/>
