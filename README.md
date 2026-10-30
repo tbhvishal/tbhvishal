@@ -186,17 +186,6 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="38" height="38" align="absmiddle" alt="" />
-  &nbsp;Daily Tech Inspiration
-</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Daily Tech Quote" width="600" />
-</div>
-
----
-
-<h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="38" height="38" align="absmiddle" alt="" />
   &nbsp;Connect with Me
 </h2>
