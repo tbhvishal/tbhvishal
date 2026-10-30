@@ -2,24 +2,24 @@
   <img src="https://github.com/tbhvishal/tbhvishal/blob/main/ProfileBanner.png?raw=true" alt="Vishal's Profile Banner" width="100%" />
 </div>
 
-<h1 align="center">Hey there, I'm Vishal Sharma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35" align="absmiddle" alt="" /></h1>
+<h1 align="center">Hey there, I'm Vishal Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="36" height="36" align="absmiddle" alt="" /></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=600&duration=3000&pause=1000&color=45DEFF&center=true&vCenter=true&width=550&height=55&lines=Aspiring+Full+Stack+Developer;Passionate+Problem+Solver;Building+Modern+Web+Apps" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Namaste-Welcome-007ACC?style=for-the-badge&logo=sparkpost&logoColor=white" alt="Namaste"/>
+  <img src="https://img.shields.io/badge/Namaste-Welcome-007ACC?style=flat&logo=sparkpost&logoColor=white" alt="Namaste"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Collaborate-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate"/>
+  <img src="https://img.shields.io/badge/Open_to-Collaborate-2ea44f?style=flat&logo=handshake&logoColor=white" alt="Open to Collaborate"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/last-commit/tbhvishal/tbhvishal?style=for-the-badge&color=45DEFF&logo=github&logoColor=white" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/last-commit/tbhvishal/tbhvishal?style=flat&color=45DEFF&logo=github&logoColor=white" alt="Last Commit"/>
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="38" height="38" align="absmiddle" alt="" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="36" height="36" align="absmiddle" alt="" />
   &nbsp;Languages & Technologies
 </h2>
 
@@ -27,58 +27,58 @@
   <table>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>Languages</b>
       </td>
       <td valign="middle">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ3LjYxNyA5OC4xMnMtNC43NjcgMi43NzQgMy4zOTcgMy43MWM5Ljg5MiAxLjEzIDE0Ljk0Ny45NjggMjUuODQ1LTEuMDkyIDAgMCAyLjg3MSAxLjc5NSA2Ljg3MyAzLjM1MS0yNC40MzkgMTAuNDctNTUuMzA4LS42MDctMzYuMTE1LTUuOTY5em0tMi45ODgtMTMuNjY1cy01LjM0OCAzLjk1OSAyLjgyMyA0LjgwNWMxMC41NjcgMS4wOTEgMTguOTEgMS4xOCAzMy4zNTQtMS42IDAgMCAxLjk5MyAyLjAyNSA1LjEzMiAzLjEzMS0yOS41NDIgOC42NC02Mi40NDYuNjgtNDEuMzA5LTYuMzM2eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNjkuODAyIDYxLjI3MWM2LjAyNSA2LjkzNS0xLjU4IDEzLjE3LTEuNTggMTMuMTdzMTUuMjg5LTcuODkxIDguMjY5LTE3Ljc3N2MtNi41NTktOS4yMTUtMTEuNTg3LTEzLjc5MiAxNS42MzUtMjkuNTggMCAuMDAxLTQyLjczMSAxMC42Ny0yMi4zMjQgMzQuMTg3eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTAyLjEyMyAxMDguMjI5czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTQuMTcxLTQuNDUxLTEuOTM4IDMuODk5LTQuNjI1IDYuNTI2LTUuMTkyIDIuNzM5LS41OTMgNC4zMDMtLjQ4NSA0LjMwMy0uNDg1LTQuOTUzLTMuNDg3LTMyLjAxMyA2Ljg1LTEzLjc0MyA5LjgxNSA0OS44MjEgOC4wNzYgOTAuODE3LTMuNjM3IDc3Ljg5Ni05LjQ2OHpNNDkuOTEyIDcwLjI5NHMtMjIuNjg2IDUuMzg5LTguMDMzIDcuMzQ4YzYuMTg4LjgyOCAxOC41MTguNjM4IDMwLjAxMS0uMzI2IDkuMzktLjc4OSAxOC44MTMtMi40NzQgMTguODEzLTIuNDc0cy0zLjMwOCAxLjQxOS01LjcwNCAzLjA1M2MtMjMuMDQyIDYuMDYxLTY3LjU0NCAzLjIzOC01NC43MzEtMi45NTggMTAuODMyLTUuMjM5IDE5LjY0NC00LjY0MyAxOS42NDQtNC42NDN6bTQwLjY5NyAyMi43NDdjMjMuNDIxLTEyLjE2NyAxMi41OTEtMjMuODYgNS4wMzItMjIuMjg1LTEuODQ4LjM4NS0yLjY3Ny43Mi0yLjY3Ny43MnMuNjg4LTEuMDc5IDItMS41NDNjMTQuOTUzLTUuMjU1IDI2LjQ1MSAxNS41MDMtNC44MjMgMjMuNzI1IDAtLjAwMi4zNTktLjMyNy40NjgtLjYxN3oiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTc2LjQ5MSAxLjU4N1M4OS40NTkgMTQuNTYzIDY0LjE4OCAzNC41MWMtMjAuMjY2IDE2LjAwNi00LjYyMSAyNS4xMy0uMDA3IDM1LjU1OS0xMS44MzEtMTAuNjczLTIwLjUwOS0yMC4wNy0xNC42ODgtMjguODE1QzU4LjA0MSAyOC40MiA4MS43MjIgMjIuMTk1IDc2LjQ5MSAxLjU4N3oiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUyLjIxNCAxMjYuMDIxYzIyLjQ3NiAxLjQzNyA1Ny0uOCA1Ny44MTctMTEuNDM2IDAgMC0xLjU3MSA0LjAzMi0xOC41NzcgNy4yMzEtMTkuMTg2IDMuNjEyLTQyLjg1NCAzLjE5MS01Ni44ODcuODc0IDAgLjAwMSAyLjg3NSAyLjM4MSAxNy42NDcgMy4zMzF6Ii8%2BPC9zdmc%2B" alt="Java"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTQ3LjYxNyA5OC4xMnMtNC43NjcgMi43NzQgMy4zOTcgMy43MWM5Ljg5MiAxLjEzIDE0Ljk0Ny45NjggMjUuODQ1LTEuMDkyIDAgMCAyLjg3MSAxLjc5NSA2Ljg3MyAzLjM1MS0yNC40MzkgMTAuNDctNTUuMzA4LS42MDctMzYuMTE1LTUuOTY5em0tMi45ODgtMTMuNjY1cy01LjM0OCAzLjk1OSAyLjgyMyA0LjgwNWMxMC41NjcgMS4wOTEgMTguOTEgMS4xOCAzMy4zNTQtMS42IDAgMCAxLjk5MyAyLjAyNSA1LjEzMiAzLjEzMS0yOS41NDIgOC42NC02Mi40NDYuNjgtNDEuMzA5LTYuMzM2eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNNjkuODAyIDYxLjI3MWM2LjAyNSA2LjkzNS0xLjU4IDEzLjE3LTEuNTggMTMuMTdzMTUuMjg5LTcuODkxIDguMjY5LTE3Ljc3N2MtNi41NTktOS4yMTUtMTEuNTg3LTEzLjc5MiAxNS42MzUtMjkuNTggMCAuMDAxLTQyLjczMSAxMC42Ny0yMi4zMjQgMzQuMTg3eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTAyLjEyMyAxMDguMjI5czMuNTI5IDIuOTEtMy44ODggNS4xNTljLTE0LjEwMiA0LjI3Mi01OC43MDYgNS41Ni03MS4wOTQuMTcxLTQuNDUxLTEuOTM4IDMuODk5LTQuNjI1IDYuNTI2LTUuMTkyIDIuNzM5LS41OTMgNC4zMDMtLjQ4NSA0LjMwMy0uNDg1LTQuOTUzLTMuNDg3LTMyLjAxMyA2Ljg1LTEzLjc0MyA5LjgxNSA0OS44MjEgOC4wNzYgOTAuODE3LTMuNjM3IDc3Ljg5Ni05LjQ2OHpNNDkuOTEyIDcwLjI5NHMtMjIuNjg2IDUuMzg5LTguMDMzIDcuMzQ4YzYuMTg4LjgyOCAxOC41MTguNjM4IDMwLjAxMS0uMzI2IDkuMzktLjc4OSAxOC44MTMtMi40NzQgMTguODEzLTIuNDc0cy0zLjMwOCAxLjQxOS01LjcwNCAzLjA1M2MtMjMuMDQyIDYuMDYxLTY3LjU0NCAzLjIzOC01NC43MzEtMi45NTggMTAuODMyLTUuMjM5IDE5LjY0NC00LjY0MyAxOS42NDQtNC42NDN6bTQwLjY5NyAyMi43NDdjMjMuNDIxLTEyLjE2NyAxMi41OTEtMjMuODYgNS4wMzItMjIuMjg1LTEuODQ4LjM4NS0yLjY3Ny43Mi0yLjY3Ny43MnMuNjg4LTEuMDc5IDItMS41NDNjMTQuOTUzLTUuMjU1IDI2LjQ1MSAxNS41MDMtNC44MjMgMjMuNzI1IDAtLjAwMi4zNTktLjMyNy40NjgtLjYxN3oiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTc2LjQ5MSAxLjU4N1M4OS40NTkgMTQuNTYzIDY0LjE4OCAzNC41MWMtMjAuMjY2IDE2LjAwNi00LjYyMSAyNS4xMy0uMDA3IDM1LjU1OS0xMS44MzEtMTAuNjczLTIwLjUwOS0yMC4wNy0xNC42ODgtMjguODE1QzU4LjA0MSAyOC40MiA4MS43MjIgMjIuMTk1IDc2LjQ5MSAxLjU4N3oiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUyLjIxNCAxMjYuMDIxYzIyLjQ3NiAxLjQzNyA1Ny0uOCA1Ny44MTctMTEuNDM2IDAgMC0xLjU3MSA0LjAzMi0xOC41NzcgNy4yMzEtMTkuMTg2IDMuNjEyLTQyLjg1NCAzLjE5MS01Ni44ODcuODc0IDAgLjAwMSAyLjg3NSAyLjM4MSAxNy42NDcgMy4zMzF6Ii8%2BPC9zdmc%2B" alt="Java"/>
       </td>
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>Frontend</b>
       </td>
       <td valign="middle">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" alt="CSS3"/>
       </td>
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>Backend</b>
       </td>
       <td valign="middle">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma"/>
       </td>
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>Databases</b>
       </td>
       <td valign="middle">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
       </td>
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" height="28" align="absmiddle" alt="" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="24" height="24" align="absmiddle" alt="" />
         &nbsp;<b>DevOps & Tools</b>
       </td>
       <td valign="middle">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
       </td>
     </tr>
   </table>
@@ -87,7 +87,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="38" height="38" align="absmiddle" alt="" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="36" height="36" align="absmiddle" alt="" />
   &nbsp;GitHub Activity & Performance
 </h2>
 
@@ -140,7 +140,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="38" height="38" align="absmiddle" alt="" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="36" height="36" align="absmiddle" alt="" />
   &nbsp;Achievements & Badges
 </h2>
 
@@ -159,24 +159,24 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="38" height="38" align="absmiddle" alt="" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="36" height="36" align="absmiddle" alt="" />
   &nbsp;Connect With Me
 </h2>
 
 <div align="center">
   <a href="mailto:vishalsharmax@zohomail.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-vishalsharmax%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-vishalsharmax%40zohomail.in-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/tbhvishal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-tbhvishal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-tbhvishal-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="38" height="38" align="absmiddle" alt="" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="36" height="36" align="absmiddle" alt="" />
   &nbsp;Contribution Graph Activity
 </h2>
 
@@ -192,6 +192,17 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="36" height="36" align="absmiddle" alt="" />
+  &nbsp;Daily Tech Inspiration
+</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Daily Tech Quote" width="600" />
 </div>
 
 <br/>
