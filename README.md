@@ -7,11 +7,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Namaste-Welcome-007ACC?style=for-the-badge&logo=sparkpost&logoColor=white" alt="Namaste"/>
+  <img src="https://img.shields.io/badge/Namaste-Welcome-007ACC?style=for-the-badge&logo=sparkpost&logoColor=white" alt="Namaste - Welcome" title="Namaste - Welcome"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Collaborate-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate"/>
+  <img src="https://img.shields.io/badge/Open_to-Collaborate-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate" title="Open to Collaborate"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/last-commit/tbhvishal/tbhvishal?style=for-the-badge&color=FED11E&logo=github&logoColor=black" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/last-commit/tbhvishal/tbhvishal?style=for-the-badge&color=FED11E&logo=github&logoColor=black" alt="Last Repository Commit" title="Latest Commit Activity"/>
 </p>
 
 ---
