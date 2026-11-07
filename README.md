@@ -2,10 +2,8 @@
   <img src="https://raw.githubusercontent.com/tbhvishal/tbhvishal/main/ProfileBanner.png?v=3" alt="Vishal's Profile Banner" width="100%" />
 </div>
 
-<h1 align="center">Hey There, I'm Vishal Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="38" height="38" align="absmiddle" alt="" /></h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=600&duration=3000&pause=1000&color=45DEFF&center=true&vCenter=true&width=620&height=55&lines=Full-Stack+Software+Engineer;Building+Production-Ready+Web+Applications;Writing+Clean%2C+Maintainable+%26+Scalable+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=600&duration=3000&pause=1000&color=FED11E&center=true&vCenter=true&width=620&height=55&lines=Full-Stack+Software+Engineer;Building+Production-Ready+Web+Applications;Writing+Clean%2C+Maintainable+%26+Scalable+Code" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,7 +11,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Open_to-Collaborate-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/last-commit/tbhvishal/tbhvishal?style=for-the-badge&color=45DEFF&logo=github&logoColor=white" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/last-commit/tbhvishal/tbhvishal?style=for-the-badge&color=FED11E&logo=github&logoColor=black" alt="Last Commit"/>
 </p>
 
 ---
@@ -119,10 +117,10 @@
     </tr>
     <tr>
       <td align="center" width="55%">
-        <img src="https://github-readme-stats-one-taupe.vercel.app/api?username=tbhvishal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=false&border_radius=10&title_color=45DEFF&icon_color=45DEFF&text_bold=true" alt="Vishal's GitHub Stats" height="195" />
+        <img src="https://github-readme-stats-one-taupe.vercel.app/api?username=tbhvishal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=false&border_radius=10&title_color=FED11E&icon_color=FED11E&text_bold=true" alt="Vishal's GitHub Stats" height="195" />
       </td>
       <td align="center" width="45%">
-        <img src="https://github-readme-stats-one-taupe.vercel.app/api/top-langs?username=tbhvishal&layout=compact&theme=onedark&hide_border=false&border_radius=10&title_color=45DEFF&text_bold=true" alt="Top Languages" height="195" />
+        <img src="https://github-readme-stats-one-taupe.vercel.app/api/top-langs?username=tbhvishal&layout=compact&theme=onedark&hide_border=false&border_radius=10&title_color=FED11E&text_bold=true" alt="Top Languages" height="195" />
       </td>
     </tr>
     <tr>
@@ -137,7 +135,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=tbhvishal&theme=onedark&border_radius=10&hide_border=false&ring=45DEFF&fire=45DEFF&currStreakNum=45DEFF" alt="GitHub Streak & Contributions" width="540" />
+        <img src="https://streak-stats.demolab.com/?user=tbhvishal&theme=onedark&border_radius=10&hide_border=false&ring=FED11E&fire=FED11E&currStreakNum=FED11E" alt="GitHub Streak & Contributions" width="540" />
       </td>
     </tr>
   </table>
@@ -203,5 +201,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=45DEFF&section=footer&reversal=true" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FED11E&section=footer&reversal=true" width="100%" alt="Footer Wave" />
 </div>
