@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tbhvishal/tbhvishal/main/ProfileBanner.png?v=2" alt="Vishal's Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/tbhvishal/tbhvishal/main/ProfileBanner.png?v=3" alt="Vishal's Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Hey There, I'm Vishal Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="38" height="38" align="absmiddle" alt="" /></h1>
