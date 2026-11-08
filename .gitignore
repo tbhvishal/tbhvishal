@@ -1,3 +1,8 @@
 # Local banners folder (hidden from GitHub repository)
 banners/
 scratch
+
+# Windows folder customization
+desktop.ini
+folder_icon.ico
+*.ico
