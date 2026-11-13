@@ -172,7 +172,7 @@
     <tr>
       <td align="center">
         <a href="https://gitshine.com/stats/TbhVishal">
-          <img src="https://gitshine.com/card/TbhVishal" alt="TbhVishal's GitHub stats" width="100%" />
+          <img src="https://gitshine.com/card/TbhVishal?theme=dark&layout=compact" alt="TbhVishal's GitHub stats" />
         </a>
       </td>
     </tr>
