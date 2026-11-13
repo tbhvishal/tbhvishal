@@ -163,19 +163,17 @@
 ---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="38" height="38" align="absmiddle" alt="" />
-  &nbsp;Interactive Contribution Graph
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="38" height="38" align="absmiddle" alt="" />
+  &nbsp;Interactive Contribution Matrix
 </h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tbhvishal/tbhvishal/output/github-snake-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tbhvishal/tbhvishal/output/github-snake.svg" />
-          <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tbhvishal/tbhvishal/output/github-snake.svg" width="100%" />
-        </picture>
+        <a href="https://gitshine.com/stats/TbhVishal">
+          <img src="https://gitshine.com/card/TbhVishal" alt="TbhVishal's GitHub stats" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
